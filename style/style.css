@@ -1,0 +1,86 @@
+body{
+	margin:0;
+	color:white;
+	line-height: 1.6em;
+
+}
+.container-whole{
+	background: url(../image/nvidia.jpg) ;
+	border: none;
+	margin:none auto;
+}
+header{
+	color: white;
+	background-color: black;
+	padding: auto;
+
+
+}
+header h1{
+	text-align: left;
+	margin:0;
+}
+
+
+a{
+	text-decoration: none;
+	color: white;
+	padding: 5px;
+	margin: none auto;
+}
+aside ol{
+	list-style-type: default;
+	line-height: 3em;
+}
+nav a:hover{
+	background-color: grey;
+	
+}
+aside ol a:hover{
+	color:none;
+	text-decoration: underline;
+}
+nav{
+	border:none;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+nav ul{
+	list-style-type: none;
+	padding: 0;
+	border:none;
+}
+nav li{
+	display: inline;
+	padding: 5px;
+	margin: 20px;
+	color:black;
+	border:none;
+}
+.Container{
+	width:90%;
+	margin: auto;
+	border:none;
+}
+
+.Container section{
+	width: 70%;
+	border:none;
+	float: left;
+	color: white;
+}
+.Container aside{
+	border:none;
+	width:15%;
+	float:right;
+	padding:none;
+}
+.clear{
+	clear: both;
+}
+footer{
+	text-align: center;
+	color: white;
+	padding: 35px;
+}
+

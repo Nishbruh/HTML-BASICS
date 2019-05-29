@@ -1,0 +1,23 @@
+body{
+	background: url(../image/nvidia.jpg);
+	color: white;
+	line-height: 5em;
+}
+.container{
+	width:90%;
+	margin:auto;
+}
+a{
+	color:white;
+	text-decoration: none;
+	padding:5px;
+}
+a:hover{
+	background-color: grey;
+}
+aside{
+	text-align: center;
+}
+ol{
+	list-style-type: none;
+}

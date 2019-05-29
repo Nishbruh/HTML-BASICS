@@ -1,0 +1,18 @@
+body{
+	background: url(../image/nvidia.jpg);
+	color: white;
+	text-align: center;
+	line-height: 1.6em;
+}
+img{
+	margin-top: 100px;
+}
+a{
+	color:black;
+}
+a:hover{
+	color:blue;
+}
+a:active{
+	color:red;
+}

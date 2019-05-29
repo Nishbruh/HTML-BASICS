@@ -1,0 +1,22 @@
+body{
+	background: url(../image/nvidia.jpg);
+	color: white;
+	text-align: center;
+	line-height: 1.6em;
+}
+h1{
+	margin-bottom: 350px
+}
+a{
+	color:white;
+	text-decoration: none;
+	padding:5px;
+	
+}
+a:hover{
+	border:solid green;
+	
+}
+a:active{
+	background-color: lightgreen;
+}
